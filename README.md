@@ -122,7 +122,7 @@
 
 ---
 
-## 🔗 URL Shortener System
+## 🔗 Snip URL Shortener System
 
 📱 **Scalable backend system with sharding, read replicas & intelligent caching**
 
