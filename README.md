@@ -1,8 +1,8 @@
 # Hi 👋, I'm Meet Sinojia
 
-🚀 **Software Engineer @ UBS | Backend + System Design Enthusiast**
-💡 Building scalable systems, APIs & data pipelines
-🏆 LeetCode Knight (Top 5%) | CodeChef 3⭐
+* 🚀 **Software Engineer @ UBS | Building Scalable Backend Systems & Distributed Architectures**
+* 💡 Building scalable systems, APIs & data pipelines
+* 🏆 LeetCode Knight (Top 5%) | CodeChef 3⭐
 
 ---
 
@@ -12,8 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MeetSinojia-red?style=for-the-badge\&logo=github)](https://github.com/MeetSinojia)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Meet%20Sinojia-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/Meet%20Sinojia)
 
-
 ---
+
 ## 🚀 About Me
 
 * 🔭 Software Engineer at **UBS**, building **backend services & data pipelines at scale**
@@ -21,6 +21,15 @@
 * 🚀 Experience with **Kafka (event-driven systems), Redis (rate limiting), AWS (RDS, S3)**
 * 📱 Built & shipped **GarageWala** — a **production app on Play Store**
 * 🔐 Designed secure systems using **OAuth2, JWT & role-based access control**
+
+---
+
+## 🚀 What I Build
+
+* Scalable backend systems (sharding, caching, async processing)
+* High-performance APIs (low latency, rate-limited)
+* Distributed systems with real-world trade-offs
+* Production-ready architectures
 
 ---
 
@@ -35,6 +44,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat\&logo=javascript)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat\&logo=dart)
 
+---
+
 ### ⚙️ Backend & Infra
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-red?style=flat\&logo=spring)
@@ -44,22 +55,38 @@
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat\&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat\&logo=docker)
 
-### ☁️ Cloud & DB
+---
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat\&logo=amazonaws)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat\&logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat)
+### ☁️ Cloud & Infrastructure
+
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-orange?style=flat\&logo=amazonaws)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-orange?style=flat\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
+![CI/CD](https://img.shields.io/badge/CI/CD-grey?style=flat)
+
+---
+
+### 🧠 System Design & Concepts
+
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-blue?style=flat)
+![DB Sharding](https://img.shields.io/badge/DB%20Sharding-purple?style=flat)
+![Caching](https://img.shields.io/badge/Caching-red?style=flat)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-orange?style=flat)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-green?style=flat)
+![Concurrency](https://img.shields.io/badge/Concurrency-lightgrey?style=flat)
+![Event Driven](https://img.shields.io/badge/Event%20Driven-black?style=flat)
 
 ---
 
 ## 🔥 Projects
-### 🚗 GarageWala
+
+---
+
+## 🚗 GarageWala
 
 > 📱 Production-grade vendor management platform (Live on Play Store)
 
 [![Play Store](https://img.shields.io/badge/Download-App-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mrmechanic.app&pcampaignid=web_share)
-
----
 
 ### 🔥 Highlights
 
@@ -68,16 +95,12 @@
 * 📈 Improved system reliability using **event-driven architecture (Kafka)**
 * 🔐 Implemented **secure OTP-based authentication (MSG91)**
 
----
-
 ### 🧠 System Design & Architecture
 
 * 📡 **Kafka-based async processing** for booking → notification flow
 * ⚡ **Redis rate limiting (Token Bucket)** to prevent API abuse
 * 🗄️ **MySQL (AWS RDS)** for structured data
 * 🖼️ **AWS S3** for scalable image storage
-
----
 
 ### ⚙️ Features
 
@@ -87,13 +110,9 @@
 * 🔔 Real-time notifications (Firebase)
 * 🔑 Role-based access control for vendors
 
----
-
 ### 🚀 Tech Stack
 
 `Golang` • `Gin` • `MySQL` • `Redis` • `Kafka` • `AWS (RDS, S3)` • `Firebase` • `Flutter`
-
----
 
 ### 💡 Why this stands out
 
@@ -155,7 +174,7 @@ Java • Spring Boot • PostgreSQL • Redis • Docker • NGINX • Flyway
 
 ---
 
-### 🛒 EchoShop
+## 🛒 EchoShop
 
 > Full-stack e-commerce platform
 
@@ -169,5 +188,13 @@ Java • Spring Boot • PostgreSQL • Redis • Docker • NGINX • Flyway
 * 🟡 LeetCode Knight (1930+)
 * ⭐ CodeChef 3★
 * 🔵 Codeforces Pupil
+
+---
+
+## 📚 Currently Learning
+
+* Distributed systems (Kafka, consistency models)
+* Kubernetes & container orchestration
+* Advanced system design (multi-region, fault tolerance)
 
 ---
