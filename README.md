@@ -103,6 +103,58 @@
 
 ---
 
+## 🔗 URL Shortener System
+
+📱 **Scalable backend system with sharding, read replicas & intelligent caching**
+
+---
+
+### 🔥 Highlights
+
+* 🚀 Designed a **production-style distributed system** with sharded PostgreSQL
+* ⚡ Implemented **read/write separation** using primary–replica architecture
+* 📈 Optimized performance using **Redis cache with LFU eviction strategy**
+* 🔐 Built **rate limiting middleware** to prevent API abuse
+* 🧠 Integrated **Snowflake ID generation** for distributed uniqueness
+
+---
+
+### 🧠 System Design & Architecture
+
+* 🧩 **Database Sharding** → hash(shortCode) for horizontal scaling
+* 🔁 **Primary–Replica Model** → writes to primary, reads from replica
+* ⚡ **Cache-Aside Pattern (Redis)** → reduces DB load significantly
+* 🔥 **LFU Cache Eviction** → keeps frequently accessed URLs in memory
+* 🚦 **Rate Limiting (Redis)** → token bucket style per IP
+* 🧵 **Thread-safe Routing (ThreadLocal)** → correct shard selection
+
+---
+
+### ⚙️ Features
+
+* 🔗 URL shortening & fast redirection
+* 📊 Click analytics with TTL-based storage
+* ⚡ High-performance caching layer
+* 🛡️ API rate limiting
+* 📡 Observability with request & routing logs
+
+---
+
+### 🚀 Tech Stack
+
+Java • Spring Boot • PostgreSQL • Redis • Docker • NGINX • Flyway
+
+---
+
+### 💡 Why this stands out
+
+* Implements **real system design concepts** (not CRUD)
+* Demonstrates **scalability: sharding + replicas**
+* Shows **deep backend thinking (caching, routing, infra)**
+* Covers **HLD + LLD + infra-level understanding**
+
+---
+
 ### 🛒 EchoShop
 
 > Full-stack e-commerce platform
